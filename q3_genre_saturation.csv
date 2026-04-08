@@ -1,0 +1,40 @@
+genres,title_count,avg_rating,median_rating,content_efficiency_score,quadrant
+International TV Shows,1141,7.05,7.2,49.63,Sweet Spot
+Dramas,2152,6.44,6.5,49.42,Oversaturated
+International Movies,2271,6.24,6.4,48.22,Oversaturated
+TV Dramas,656,7.16,7.3,46.44,Sweet Spot
+Documentaries,603,6.89,7.0,44.11,Sweet Spot
+TV Comedies,505,7.01,7.1,43.63,Sweet Spot
+Comedies,1380,5.99,6.1,43.31,Oversaturated
+Crime TV Shows,416,7.15,7.2,43.12,Sweet Spot
+Docuseries,331,7.25,7.4,42.07,Sweet Spot
+Independent Movies,695,6.35,6.5,41.55,Oversaturated
+Action & Adventure,752,6.11,6.2,40.46,Oversaturated
+Romantic TV Shows,302,7.08,7.3,40.43,Sweet Spot
+Kids' TV,370,6.61,6.6,39.09,Oversaturated
+Romantic Movies,548,6.13,6.2,38.66,Oversaturated
+British TV Shows,217,7.17,7.3,38.57,Sweet Spot
+Thrillers,530,6.04,6.15,37.89,Oversaturated
+Anime Series,145,7.32,7.4,36.43,Underloved
+TV Action & Adventure,150,7.26,7.35,36.38,Underloved
+Music & Musicals,268,6.41,6.6,35.84,Oversaturated
+Children & Family Movies,360,6.07,6.1,35.73,Oversaturated
+Reality TV,229,6.52,6.6,35.43,Oversaturated
+Korean TV Shows,129,7.22,7.4,35.09,Underloved
+Sports Movies,179,6.59,6.8,34.18,Dead Zone
+Classic Movies,104,7.33,7.4,34.04,Underloved
+Spanish-Language TV Shows,142,6.86,6.9,34.0,Dead Zone
+Sci-Fi & Fantasy,208,6.06,6.1,32.35,Dead Zone
+TV Mysteries,93,7.08,7.2,32.09,Underloved
+Science & Nature TV,76,7.35,7.4,31.83,Underloved
+Horror Movies,312,5.43,5.4,31.18,Oversaturated
+TV Sci-Fi & Fantasy,75,7.15,7.3,30.87,Underloved
+Teen TV Shows,66,7.23,7.4,30.29,Underloved
+TV Horror,71,6.91,6.9,29.46,Underloved
+LGBTQ Movies,87,6.43,6.5,28.72,Dead Zone
+Cult Movies,63,6.87,6.9,28.46,Dead Zone
+TV Thrillers,50,7.1,7.2,27.78,Underloved
+Anime Features,45,6.92,7.0,26.34,Underloved
+Classic & Cult TV,25,8.0,8.2,25.75,Underloved
+Stand-Up Comedy & Talk Shows,41,6.52,6.6,24.21,Dead Zone
+Faith & Spirituality,51,6.03,6.2,23.71,Dead Zone
